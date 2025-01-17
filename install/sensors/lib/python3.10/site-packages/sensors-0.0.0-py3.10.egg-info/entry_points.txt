@@ -1,0 +1,6 @@
+[console_scripts]
+camera = sensors.camera:main
+ins = sensors.ins:main
+ultrasonic = sensors.ultrasonic:main
+uwb = sensors.uwb:main
+

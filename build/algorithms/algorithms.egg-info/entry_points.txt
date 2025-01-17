@@ -1,0 +1,6 @@
+[console_scripts]
+camera = algorithms.camera:main
+ins = algorithms.ins:main
+ultrasonic = algorithms.ultrasonic:main
+uwb = algorithms.uwb:main
+

@@ -1,0 +1,1 @@
+/workspaces/its_rpi_ros2_humble/build/rplidar_ros/ament_cmake_core/rplidar_rosConfig.cmake
